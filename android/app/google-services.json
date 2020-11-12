@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "332057680149",
+    "firebase_url": "https://baipai-b58ca.firebaseio.com",
+    "project_id": "baipai-b58ca",
+    "storage_bucket": "baipai-b58ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332057680149:android:7c5a40f96657dedc68b11c",
+        "android_client_info": {
+          "package_name": "supakorn.rmutt.baipai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332057680149-99b5ojnc7o1urkc61fa1mhustndb488t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0mIKUS54lLR1P-ZiS0i6Va3b8knpcf8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332057680149-99b5ojnc7o1urkc61fa1mhustndb488t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
